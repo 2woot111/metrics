@@ -1,5 +1,5 @@
 export const coreMetrics = {
-  totalUsers: 23561,
+  totalUsers: 28561,
   coreUsers: 7117,
   mau: 2375,
   dau: 114,
